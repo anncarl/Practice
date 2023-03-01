@@ -3,7 +3,7 @@
 import requests
 import json 
 
-api_key = "864c6d437aaec5dc5b5b47fc24ba8a83"
+api_key = "get API key from openweather.org"
 base_url= "https://api.openweathermap.org/data/2.5/weather"
 parameters = {
     "q":"Nairobi",
